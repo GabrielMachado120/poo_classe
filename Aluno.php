@@ -5,7 +5,7 @@ require_once "Usuario.php";
 class Aluno extends Usuario {
     private $matricula;
 
-    #[Override]
+    
     public function __construct($nome, $email, $matricula)
     {
         return parent::__construct($nome, $email);
