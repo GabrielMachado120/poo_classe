@@ -1,0 +1,29 @@
+{
+    "professores": [
+        {
+            "nome": "Matheus Nicolato",
+            "email": "matheus@gmail.com",
+            "disciplina": "matemática"
+        },
+        {
+            "nome": "Matheus Nicolato",
+            "email": "matheus@gmail.com",
+            "disciplina": "matemática"
+        },
+        {
+            "nome": "Matheus Nicolato",
+            "email": "matheus@gmail.com",
+            "disciplina": "matemática"
+        },
+        {
+            "nome": "Augusto Esteves Rodrigues",
+            "email": "gabriel.h.machado6@edu.senai.br",
+            "disciplina": "matemática"
+        },
+        {
+            "nome": "Davi",
+            "email": "gabriel.h.machado6@edu.senai.br",
+            "disciplina": "1234"
+        }
+    ]
+}
