@@ -8,7 +8,7 @@ class Aluno extends Usuario {
     
     public function __construct($nome, $email, $matricula)
     {
-        return parent::__construct($nome, $email);
+        parent::__construct($nome, $email);
         $this->matricula = $matricula;
     }
 
